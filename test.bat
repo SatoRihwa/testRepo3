@@ -1,2 +1,2 @@
 @echo off
-echo Hello world6
+echo Hello world7
